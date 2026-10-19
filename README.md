@@ -19,23 +19,6 @@ I'm a software development student interested in cloud infrastructure, automatio
 - **Web:** HTML, CSS, web application fundamentals
 - **Data & AI:** PyTorch, machine learning fundamentals
 
-## Featured Projects
-
-### ReservationSystem
-A Java-based reservation system.
-
-- Repository: [ReservationSystem](https://github.com/Yuzun34/ReservationSystem)
-
-### PyTorch MNIST MLP
-A multi-layer perceptron implemented in PyTorch for handwritten digit classification.
-
-- Repository: [pytorch-mnist-mlp](https://github.com/Yuzun34/pytorch-mnist-mlp)
-
-### C Examples
-Programming exercises and examples from my data structures and algorithms studies.
-
-- Repository: [C_Examples](https://github.com/Yuzun34/C_Examples)
-
 ## Current Learning Focus
 
 - Cloud infrastructure and deployment
