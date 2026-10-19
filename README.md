@@ -1,40 +1,55 @@
-# Hi, I'm Yusuf Uzun
+# Yusuf Uzun
 
-**Aspiring Cloud Engineer | Computer Engineering Student**
+**Aspiring Cloud Engineer | Cloud Infrastructure & DevOps**
 
-I'm interested in cloud engineering, software development, and building practical projects while continuously expanding my technical skills.
+I'm a software development student interested in cloud infrastructure, automation, and reliable software delivery. I focus on building practical projects and developing my skills in cloud technologies, Linux, networking, and DevOps practices.
 
-### About Me
+## About Me
 
-- Interested in cloud computing and cloud infrastructure
-- Learning Python, web development, and software engineering fundamentals
-- Exploring data technologies and machine learning
-- Building projects to apply what I learn
+- Interested in cloud infrastructure, deployment automation, and system reliability
+- Exploring Google Cloud and cloud-native technologies
+- Developing my programming skills through hands-on projects
+- Learning how to automate testing, builds, and deployments
 
-### Tech Stack
+## Technical Interests
 
-**Languages:** Python, Java, C, HTML
+- **Cloud:** Google Cloud Platform (GCP), cloud infrastructure, cloud services
+- **DevOps:** CI/CD, infrastructure as code, containerization
+- **Programming:** Python, Java, C
+- **Web:** HTML, CSS, web application fundamentals
+- **Data & AI:** PyTorch, machine learning fundamentals
 
-**Currently Exploring:** Cloud Engineering, Google Cloud, Data Engineering, Machine Learning
+## Featured Projects
 
-### Featured Projects
+### ReservationSystem
+A Java-based reservation system.
 
-- **ReservationSystem** — A reservation management project built with Java.
-- **PyTorch MNIST MLP** — A multi-layer perceptron implemented from scratch in PyTorch for handwritten digit classification.
-- **Istanbul Metro Route Plan** — Programming exercises and examples from my data structures and algorithms studies.
-- **Web Bootcamp** — Projects and exercises from my web development learning journey.
+- Repository: [ReservationSystem](https://github.com/Yuzun34/ReservationSystem)
 
-### Currently Learning
+### PyTorch MNIST MLP
+A multi-layer perceptron implemented in PyTorch for handwritten digit classification.
 
-- Cloud infrastructure and services
-- Data engineering fundamentals
-- Web development and backend technologies
+- Repository: [pytorch-mnist-mlp](https://github.com/Yuzun34/pytorch-mnist-mlp)
 
-### Connect With Me
+### C Examples
+Programming exercises and examples from my data structures and algorithms studies.
 
-- GitHub: [@Yuzun34](https://github.com/Yuzun34)
+- Repository: [C_Examples](https://github.com/Yuzun34/C_Examples)
+
+## Current Learning Focus
+
+- Cloud infrastructure and deployment
+- Linux administration and networking fundamentals
+- Docker and containerized applications
+- GitHub Actions and CI/CD pipelines
+- Infrastructure as Code with Terraform
+- Monitoring, logging, and cloud security fundamentals
+
+## Connect
+
+- GitHub: [Yuzun34](https://github.com/Yuzun34)
 - LinkedIn: [yuzun34](https://www.linkedin.com/in/yuzun34/)
 
 ---
 
-*Learning by building, improving through practice.*
+*Learning by building. Improving through practice.*
