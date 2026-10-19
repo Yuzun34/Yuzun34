@@ -21,7 +21,7 @@ I'm interested in cloud engineering, software development, and building practica
 
 - **ReservationSystem** — A reservation management project built with Java.
 - **PyTorch MNIST MLP** — A multi-layer perceptron implemented from scratch in PyTorch for handwritten digit classification.
-- **Istanbul Metro Route Plan* — Programming exercises and examples from my data structures and algorithms studies.
+- **Istanbul Metro Route Plan** — Programming exercises and examples from my data structures and algorithms studies.
 - **Web Bootcamp** — Projects and exercises from my web development learning journey.
 
 ### Currently Learning
