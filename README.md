@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Yusuf Uzun
 
-<!--
-**Yuzun34/Yuzun34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cloud Engineer | Software Development Student**
 
-Here are some ideas to get you started:
+I'm interested in cloud engineering, software development, and building practical projects while continuously expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Interested in cloud computing and cloud infrastructure
+- Learning Python, web development, and software engineering fundamentals
+- Exploring data technologies and machine learning
+- Building projects to apply what I learn
+
+### Tech Stack
+
+**Languages:** Python, Java, C, HTML
+
+**Currently Exploring:** Cloud Engineering, Google Cloud, Data Engineering, Machine Learning
+
+### Featured Projects
+
+- **ReservationSystem** — A reservation management project built with Java.
+- **PyTorch MNIST MLP** — A multi-layer perceptron implemented from scratch in PyTorch for handwritten digit classification.
+- **C Examples** — Programming exercises and examples from my data structures and algorithms studies.
+- **Web Bootcamp** — Projects and exercises from my web development learning journey.
+
+### Currently Learning
+
+- Cloud infrastructure and services
+- Data engineering fundamentals
+- Web development and backend technologies
+
+### Connect With Me
+
+- GitHub: [@Yuzun34](https://github.com/Yuzun34)
+- LinkedIn: [yuzun34](https://www.linkedin.com/in/yuzun34/)
+
+---
+
+*Learning by building, improving through practice.*
