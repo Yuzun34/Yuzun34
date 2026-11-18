@@ -1,7 +1,6 @@
-
 # Yusuf Uzun
 
-**Software Development Student | Cloud, DevOps & AI**
+**Computer Engineering Student | Cloud, DevOps & AI**
 
 I'm a Computer Engineering student interested in cloud infrastructure, DevOps, and artificial intelligence. I enjoy building practical projects and exploring technologies that improve software reliability, automation, and deployment.
 
