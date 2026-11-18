@@ -1,38 +1,23 @@
+
 # Yusuf Uzun
 
-**Aspiring Cloud Engineer | Cloud Infrastructure & DevOps**
+**Software Development Student | Cloud, DevOps & AI**
 
-I'm a software development student interested in cloud infrastructure, automation, and reliable software delivery. I focus on building practical projects and developing my skills in cloud technologies, Linux, networking, and DevOps practices.
+I'm a software development student interested in cloud infrastructure, DevOps, and artificial intelligence. I enjoy building practical projects and exploring technologies that improve software reliability, automation, and deployment.
 
-## About Me
+## Tech Stack & Interests
 
-- Interested in cloud infrastructure, deployment automation, and system reliability
-- Exploring Google Cloud and cloud-native technologies
-- Developing my programming skills through hands-on projects
-- Learning how to automate testing, builds, and deployments
+- **Languages:** Python, Java, C
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, GitHub Actions, Terraform *(currently learning)*
+- **AI & Machine Learning:** PyTorch, Computer Vision
+- **Fundamentals:** Linux, Networking, Git
 
-## Technical Interests
+## Featured Projects
 
-- **Cloud:** Google Cloud Platform (GCP), cloud infrastructure, cloud services
-- **DevOps:** CI/CD, infrastructure as code, containerization
-- **Programming:** Python, Java, C
-- **Web:** HTML, CSS, web application fundamentals
-- **Data & AI:** PyTorch, machine learning fundamentals
-
-## Current Learning Focus
-
-- Cloud infrastructure and deployment
-- Linux administration and networking fundamentals
-- Docker and containerized applications
-- GitHub Actions and CI/CD pipelines
-- Infrastructure as Code with Terraform
-- Monitoring, logging, and cloud security fundamentals
+- **TurkeyCarClassifier** — Vehicle make and model classification using PyTorch and computer vision.
+- **Numerical Optimization** — Exploring optimization techniques and machine learning for tire force modeling.
 
 ## Connect
 
-- GitHub: [Yuzun34](https://github.com/Yuzun34)
-- LinkedIn: [yuzun34](https://www.linkedin.com/in/yuzun34/)
-
----
-
-*Learning by building. Improving through practice.*
+- **GitHub:** [Yuzun34](https://github.com/Yuzun34)
+- **LinkedIn:** [yuzun34](https://www.linkedin.com/in/yuzun34/)
