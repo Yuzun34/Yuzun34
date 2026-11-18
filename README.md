@@ -8,14 +8,17 @@ I'm a software development student interested in cloud infrastructure, DevOps, a
 ## Tech Stack & Interests
 
 - **Languages:** Python, Java, C
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, GitHub Actions, Terraform *(currently learning)*
+- **Cloud & DevOps:** GCP, Docker, GitHub Actions, Terraform
 - **AI & Machine Learning:** PyTorch, Computer Vision
 - **Fundamentals:** Linux, Networking, Git
 
 ## Featured Projects
 
-- **TurkeyCarClassifier** — Vehicle make and model classification using PyTorch and computer vision.
-- **Numerical Optimization** — Exploring optimization techniques and machine learning for tire force modeling.
+- **[Cloud DevOps Pipeline](https://github.com/Yuzun34/cloud-devops-pipeline)**  
+  Cloud deployment pipeline using FastAPI, Docker, GitHub Actions, Google Cloud Run, and Terraform.
+
+- **[PyTorch MNIST MLP](https://github.com/Yuzun34/pytorch-mnist-mlp)**  
+  Multi-Layer Perceptron built with PyTorch, featuring hyperparameter experiments and model evaluation.
 
 ## Connect
 
